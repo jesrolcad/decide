@@ -48,4 +48,4 @@ jobs:
       with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "<<decidejrc>>"
-          heroku_email: " <<jesrolcad@alum.us.es>>"
+          heroku_email: "<<jesrolcad@alum.us.es>>"
